@@ -1,6 +1,5 @@
 ## Hi there, myself Akhilraj 👋
 ### I am a coder/programmer/somebody who copies from Google 🤣
-
 * 🔭 Currently working on Android <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="22"></img>
 * 🌱 I am currently learning everything😆
 * 🥅 2022 goals: Launching my projects on playstore, being a good leetcoder!
