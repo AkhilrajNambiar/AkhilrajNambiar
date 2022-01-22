@@ -1,5 +1,5 @@
-## Hi there, myself Akhilraj 👋
-### I am a coder/programmer/somebody who copies from Google 🤣
+### Hi there, myself Akhilraj 👋
+## I am a coder/programmer/somebody who copies from Google 🤣
 * 🔭 Currently working on Android <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="22"></img>
 * 🌱 I am currently learning everything😆
 * 🥅 2022 goals: Launching my projects on playstore, being a good leetcoder!
@@ -10,7 +10,7 @@
 [<img width="26" alt="Android" src="medium-brands.svg"></img>](https://nambiarakhilraj01.medium.com/) &nbsp;
 [<img width="26" alt="Android" src="stack-overflow-brands.svg"></img>](https://stackoverflow.com/users/14594657/aknk) &nbsp;
 
-### Languages and Tools
+## Languages and Tools
 <img width="26" alt="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></img> &nbsp;
 <img width="26" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></img> &nbsp;
 <img width="26" alt="Spring Boot" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></img> &nbsp;
